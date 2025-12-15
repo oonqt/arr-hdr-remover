@@ -1,0 +1,26 @@
+{
+  "name": "arr-hdr-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oonqt/arr-hdr-remover.git"
+  },
+  "keywords": [],
+  "author": "Rechigo (Luke)",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/oonqt/arr-hdr-remover/issues"
+  },
+  "homepage": "https://github.com/oonqt/arr-hdr-remover#readme",
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11"
+  }
+}
